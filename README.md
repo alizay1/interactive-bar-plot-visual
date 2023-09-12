@@ -1,1 +1,1 @@
-# Interactive Bar Plot Visual - NISS Data Visualization Competition
+# Interactive Bar Plot Visual
