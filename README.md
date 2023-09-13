@@ -8,19 +8,19 @@ During grad school, my data visualization course participated in the 2022 NISS S
 
 
 
-# Questions to Answer
+## Questions to Answer
 
 
 
 
 
-# The Data
+## The Data
 
 
 
 
 
-Based on the questions, see if you can come up with your own conclusions!
+### Based on the questions, see if you can come up with your own conclusions!
 
 
 
