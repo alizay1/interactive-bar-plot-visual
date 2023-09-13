@@ -29,9 +29,9 @@ For this visual, only the age ranges from 25-34 and 25-64 were used for all year
 
 ## Questions to Answer
 
-1. 
+1. How has 
 2. Compare the high school completion and postsecondary degree data by age group.
-3. How has each country performed compared to the OECD average.
+3. How has each country performed compared to the OECD average for each age group.
 
 
 
