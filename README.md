@@ -14,6 +14,9 @@ During grad school, my data visualization course participated in the 2022 NISS S
 
 ## Description of Visual
 
+
+When you open up the dashboard, you will first view the base visual under the "All Age Ranges" selectiono. It does a side by side comparison of high school completion and postsecondary completion percentages by age group.
+
 ![Screenshot 2023-09-12 at 4 28 24 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/dd2d390d-fd3d-4785-97cf-5067007c09af)
 
 
@@ -23,18 +26,18 @@ During grad school, my data visualization course participated in the 2022 NISS S
 ![Screenshot 2023-09-12 at 4 31 06 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/3505fbe1-2566-4762-827e-812bf26b41c4)
 
 
-For this visual, only the age ranges from 25-34 and 25-64 were used for all years.
 
+### Standard Instructions
+1. You can select one of the OECD countries to view on the left hand side.
+2. You can also toggle between the age groups in the dropdown menu located on the right hand side of the dashboard.
+3. You can select or deselect any of the values displayed in the legend for more less obvious comparisons.
 
+**Note: Only the age ranges from 25-34 and 25-64 were used for all years.**
 
 ## Questions to Answer
 
-1. How has 
-2. Compare the high school completion and postsecondary degree data by age group.
-3. How has each country performed compared to the OECD average for each age group.
-
-
-
+1. How has the high school and postsecondary degree completion percentages change over time?
+2. How has each country performed compared to the OECD average for each age group?
 
 ***
 
