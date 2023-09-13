@@ -29,8 +29,8 @@ When you open up the dashboard, you will first view the base visual under the "A
 
 ### Standard Instructions
 1. You can select one of the OECD countries to view on the left hand side.
-2. You can also toggle between the age groups in the dropdown menu located on the right hand side of the dashboard.
-3. You can select or deselect any of the values displayed in the legend for more less obvious comparisons.
+2. You can toggle between the age groups in the dropdown menu located on the right hand side of the dashboard.
+3. You can select or deselect any of the values displayed in the legend for less obvious comparisons.
 
 **Note: Only the age ranges from 25-34 and 25-64 were used for all years.**
 
