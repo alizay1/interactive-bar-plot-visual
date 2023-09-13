@@ -9,25 +9,34 @@ During grad school, my data visualization course participated in the 2022 NISS S
 ## The Data
 
 
+**Note: Some countries are missing educational data**
+
+
 
 ## Description of Visual
 
 
 
+For this visual, only the age ranges from 25-34 and 25-64 were used for all years.
+
+
 
 ## Questions to Answer
 
-1. How has access to education changed over time in the country you
-
+1. 
+2. 
 
 
 
 
 ***
 
-### Based on the questions, see if you can come up with your own conclusions!
+
+### Based on the questions asked (or questions of your own), see if you can come up with your own conclusions!
 
 
-**Note: Some countries are missing educational data**
+
+
+
 
 
