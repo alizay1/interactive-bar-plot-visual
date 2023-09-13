@@ -19,6 +19,7 @@ During grad school, my data visualization course participated in the 2022 NISS S
 
 
 
+***
 
 ### Based on the questions, see if you can come up with your own conclusions!
 
