@@ -6,15 +6,19 @@ During grad school, my data visualization course participated in the 2022 NISS S
 ![Screenshot 2023-09-12 at 4 28 24 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/dd2d390d-fd3d-4785-97cf-5067007c09af)
 
 
+## The Data
+
+
+
+## Description of Visual
+
+
 
 
 ## Questions to Answer
 
+1. How has access to education changed over time in the country you
 
-
-
-
-## The Data
 
 
 
@@ -24,5 +28,6 @@ During grad school, my data visualization course participated in the 2022 NISS S
 ### Based on the questions, see if you can come up with your own conclusions!
 
 
+**Note: Some countries are missing educational data**
 
 
