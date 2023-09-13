@@ -7,6 +7,7 @@ During grad school, my data visualization course participated in the 2022 NISS S
 
 ## The Data
 
+Percentage of the population 25 to 64 years old who completed high school, by age group and country: Selected years, 2000 through 2019  -and-  Percentage of the population 25 to 64 years old who attained any postsecondary degree, by age group and country: Selected years, 2000 through 2019
 
 **Note: Some countries are missing educational data**
 
