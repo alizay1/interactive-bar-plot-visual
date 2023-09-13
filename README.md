@@ -1,5 +1,7 @@
 # Interactive Bar Plot Visual
 
+Click here https://alizay1.shinyapps.io/interactive-bar-plot-of-education-data/
+
 
 
 # Introduction
