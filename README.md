@@ -28,6 +28,7 @@ When you open up the dashboard, the base visual is shown under the "All Age Rang
 
 ***
 
+The second dropdown selection is for ages 25-64. The OECD average is also included for the high school and postsecondary degree completion percentages respoectively. The OECD average will change with respect to the country selected and age range.
 
 
 
@@ -36,6 +37,10 @@ When you open up the dashboard, the base visual is shown under the "All Age Rang
 
 
 ***
+
+
+The last dropdown selection is for ages 25-34 which also displays the OECD average for high school and postsecondary degree.
+
 
 ![Screenshot 2023-09-12 at 4 31 06 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/3505fbe1-2566-4762-827e-812bf26b41c4)
 
