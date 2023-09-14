@@ -7,10 +7,16 @@ During grad school, my data visualization course participated in the 2022 NISS S
 
 ## The Data
 
-Percentage of the population 25 to 64 years old who completed high school, by age group and country: Selected years, 2000 through 2019  -and-  Percentage of the population 25 to 64 years old who attained any postsecondary degree, by age group and country: Selected years, 2000 through 2019
+The first dataset found [here](https://nces.ed.gov/programs/digest/d20/tables/dt20_603.10.asp) contains the percentage of the population who completed high school by age group and country from 2000 to 2019. 
 
-**Note: Some countries are missing educational data**
+The second dataset found [here](https://nces.ed.gov/programs/digest/d20/tables/dt20_603.20.asp) contains the same information as the first except its for the percentage of the population that attained any postsecondary degree after high school.
 
+In both tables, the population percentages are from OECD (Organisation for Economic Co-operation and Development) participating countries. The OECD average is also displayed which averages out all the countries population percentages by year and age group.
+
+For 2018 and 2019, the standard errors were  estimated by NCES (National Center for Education Statistics).
+
+
+**Note: Both tables were combined then cleaned for the project so some countries will be missing some data in the visualization.**
 
 
 ## Description of Visual
