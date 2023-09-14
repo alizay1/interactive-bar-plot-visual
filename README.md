@@ -19,7 +19,7 @@ For 2018 and 2019, the standard errors were  estimated by NCES (National Center 
 **Note: Both tables were combined then cleaned for the project so some countries will be missing some data in the visualization. Furthermore, only the age ranges 25-34 and 25-64 were used for all years in the visual.**
 
 
-## Description of Visual
+## Description of the Visual
 
 
 When you open up the dashboard, the base visual is shown under the "All Age Ranges" selection. It does a side by side comparison of high school completion and postsecondary completion percentages by age group.
