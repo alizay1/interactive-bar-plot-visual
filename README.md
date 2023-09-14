@@ -49,7 +49,7 @@ When you open up the dashboard, the base visual is shown under the "All Age Rang
 
 **Note: Only the age ranges from 25-34 and 25-64 were used for all years.**
 
-## Questions to Answer
+## Questions to Consider
 
 1. How has the high school and postsecondary degree completion percentages change over time?
 2. How has each country performed compared to the OECD average for each age group?
