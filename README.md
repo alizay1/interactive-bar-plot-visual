@@ -16,7 +16,7 @@ In both tables, the population percentages are from OECD (Organisation for Econo
 For 2018 and 2019, the standard errors were  estimated by NCES (National Center for Education Statistics).
 
 
-**Note: Both tables were combined then cleaned for the project so some countries will be missing some data in the visualization.**
+**Note: Both tables were combined then cleaned for the project so some countries will be missing some data in the visualization. Furthermore, only the age ranges 25-34 and 25-64 were used for all years in the visual.**
 
 
 ## Description of Visual
@@ -47,7 +47,6 @@ When you open up the dashboard, the base visual is shown under the "All Age Rang
 3. Select or deselect any of the values displayed in the legend for less obvious comparisons.
 4. Hover over any bar to get the exact population percentage with the standard error.
 
-**Note: Only the age ranges from 25-34 and 25-64 were used for all years.**
 
 ## Questions to Consider
 
