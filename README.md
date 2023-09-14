@@ -16,14 +16,20 @@ Percentage of the population 25 to 64 years old who completed high school, by ag
 ## Description of Visual
 
 
-When you open up the dashboard, you will first view the base visual under the "All Age Ranges" selection. It does a side by side comparison of high school completion and postsecondary completion percentages by age group.
+When you open up the dashboard, the base visual is shown under the "All Age Ranges" selection. It does a side by side comparison of high school completion and postsecondary completion percentages by age group.
 
 ![Screenshot 2023-09-12 at 4 28 24 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/dd2d390d-fd3d-4785-97cf-5067007c09af)
+
+***
+
 
 
 
 ![Screenshot 2023-09-12 at 4 30 48 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/b0edf4f1-c441-41b3-aa39-d412c2d52691)
 
+
+
+***
 
 ![Screenshot 2023-09-12 at 4 31 06 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/3505fbe1-2566-4762-827e-812bf26b41c4)
 
