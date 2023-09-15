@@ -24,7 +24,8 @@ For 2018 and 2019, the standard errors were  estimated by NCES (National Center 
 
 When you open up the dashboard, the base visual is shown under the "All Age Ranges" selection. It does a side by side comparison of high school completion and postsecondary completion percentages by age group.
 
-![Screenshot 2023-09-12 at 4 28 24 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/dd2d390d-fd3d-4785-97cf-5067007c09af)
+![Screenshot 2023-09-12 at 4 28 24 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/252a785f-1a7b-4dff-a59e-93a04ce0e71d)
+
 
 ***
 
@@ -32,7 +33,8 @@ The second dropdown selection is for ages 25-64. The OECD average is also includ
 
 
 
-![Screenshot 2023-09-12 at 4 30 48 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/b0edf4f1-c441-41b3-aa39-d412c2d52691)
+![Screenshot 2023-09-12 at 4 30 48 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/e758450e-c149-4974-a10c-6f514bea1cd2)
+
 
 
 
@@ -42,7 +44,8 @@ The second dropdown selection is for ages 25-64. The OECD average is also includ
 The last dropdown selection is for ages 25-34 which also displays the OECD average for high school and postsecondary degree.
 
 
-![Screenshot 2023-09-12 at 4 31 06 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/3505fbe1-2566-4762-827e-812bf26b41c4)
+![Screenshot 2023-09-12 at 4 31 06 PM](https://github.com/alizay1/interactive-bar-plot-visual/assets/101383537/16821923-9b5d-4628-a220-18b198aaab7d)
+
 
 
 
