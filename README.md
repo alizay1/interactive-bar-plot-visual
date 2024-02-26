@@ -29,7 +29,7 @@ When you open up the dashboard, the base visual is shown under the "All Age Rang
 
 ***
 
-The second dropdown selection is for ages 25-64. The OECD average is also included for the high school and postsecondary degree completion percentages respoectively. The OECD average will change with respect to the country selected and age range.
+The second dropdown selection is for ages 25-64. The OECD average is also included for the high school and postsecondary degree completion percentages respectively. The OECD average will change with respect to the country selected and age range.
 
 
 
